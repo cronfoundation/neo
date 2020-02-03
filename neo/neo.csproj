@@ -4,20 +4,22 @@
     <Copyright>2018-2020 CRON Foundation, 2015-2020 The Neo Project</Copyright>
     <AssemblyTitle>Neo</AssemblyTitle>
     <Version>2.10.3</Version>
-    <Authors>The Neo Project</Authors>
+    <Authors>CRON Foundation, The Neo Project</Authors>
     <TargetFrameworks>netstandard2.0;net47</TargetFrameworks>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <AssemblyName>Neo</AssemblyName>
     <PackageId>CRONIUM</PackageId>
-    <PackageTags>NEO;AntShares;Blockchain;Smart Contract;CRONIUM</PackageTags>
+    <PackageTags>CRONIUM;NEO;AntShares;Blockchain;Smart Contract;</PackageTags>
     <PackageProjectUrl>https://github.com/cronfoundation/neo</PackageProjectUrl>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/cronfoundation/neo.git</RepositoryUrl>
     <RootNamespace>Neo</RootNamespace>
-    <Company>The Neo Project</Company>
+    <Company>CRON Foundation, The Neo Project</Company>
     <Description>CRON</Description>
     <LangVersion>latest</LangVersion>
+    <Product>CRON, Neo</Product>
+    <PackageReleaseNotes>The latest 2.10.x version based on Neo 2.10.x Blockchain</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
